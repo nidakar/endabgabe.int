@@ -41,34 +41,35 @@ html{
 }
 
 h1{
-    font-size: 200px;
+    font-size: 170px;
 }
 
 .header p {
 	color: rgb(255, 252, 233, 0.976);
 	display: flex; 
-    justify-content: center; 
-    align-items: center;
+    	justify-content: center; 
+    	align-items: center;
 	margin-bottom: 50px;
 }
 
 .header a {
 	color: rgb(255, 252, 233, 0.976);
 	display: flex; 
-    justify-content: center; 
-    align-items: center;
+    	justify-content: center; 
+    	align-items: center;
 	margin-bottom: 50px;
 	max-width: 1080px;
 	margin: 0 auto;
 	padding: 0 1rem;
 	box-sizing: content-box;
 	border:2px solid rgba(255, 252, 233, 0.976);
-    background-color: rgba(255, 252, 233, 0.976);
-    margin-bottom: 200px;
-    padding: 15px;
+    	background-color: rgba(255, 252, 233, 0.976);
+    	margin-bottom: 200px;
+    	padding: 15px;
 	border-radius: 18px;
 	color: #4B4F58;
 	text-align: center;
+	font-size: 50px;
 }
 
 .ueberschrift p{
